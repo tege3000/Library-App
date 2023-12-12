@@ -1,3 +1,2 @@
 # Library-App
--simple lib app built using vanilla js
--no frameworks
+-simple lib app built using vanilla js, no frameworks
